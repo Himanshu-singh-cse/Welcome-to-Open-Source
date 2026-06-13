@@ -190,7 +190,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/Himanshu-singh-cse">
                     <img src="https://avatars.githubusercontent.com/u/184427604?v=4" width="100px;"
-                        alt="Himanshu Singh" />
+                        alt="Himanshu Singh btech cse work at google" />
                     <br />
                     <sub>
                         <b>Himanshu Singh</b>
